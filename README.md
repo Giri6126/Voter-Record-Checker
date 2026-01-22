@@ -1,1 +1,1 @@
-# Voter-Record-Checker
+Voter-Record-Checker
